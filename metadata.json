@@ -1,0 +1,5 @@
+{
+  "name": "Film List Manager",
+  "description": "A clean and efficient application to manage your movie watch list with status tracking.",
+  "requestFramePermissions": []
+}
